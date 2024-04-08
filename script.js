@@ -9,3 +9,4 @@ audio.addEventListener("click", function audio(){
 gambar.addEventListener("click", function gambar(){
     alert("Ini Gambar Vergil");
 });
+
